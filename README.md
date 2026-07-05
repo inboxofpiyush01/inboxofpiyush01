@@ -170,28 +170,62 @@ Turned a messy real-world business dataset into a GPS-filtered, ranked sales-tar
 
 **🧪 QA Dummy Data Generator** *(KPMG)*
 Auto-generates realistic, compliant test datasets from plain-English requirements — first shipped in VBA, rebuilt in Python.
-`Python` `VBA` `Prompt Engineering`
+`VBA` `Python` `Prompt Engineering`
 
 </td>
 </tr>
 </table>
 
-#### ⚙️ Enterprise Automation Portfolio
+#### ⚙️ Key Automation Projects (KPMG & Mphasis)
 
 | Project | Client / Org | One-liner | Stack |
 |---|---|---|---|
-| **BRD Generator / Translator** | KPMG | Converts code or BRDs into plain-English business docs — zero technical background needed | `VBA` `Python` `Prompt Engineering` |
+| **BRD Generator / Translator** | KPMG | Converts code or BRDs into plain-English business docs so BAs don't need technical background | `VBA` `Python` `Prompt Engineering` |
 | **KCAT Tool** | KPMG | Automated end-to-end audit confirmation, authentication & account tracking via APIs | `VBA` `API` `SQL` |
 | **PowerBI Elements Extractor** | KPMG | Extracts & validates tables/queries/formulas from Power BI dashboards for fast QA sign-off | `VBA` `Power BI` `Excel` |
 | **PRE-OPS Automation Tool** | Mphasis | Automated end-to-end mortgage QC data fetch & validation across multiple systems | `VBA` `Web Apps` `Mainframes` |
 | **Gifting Tool** | Mphasis | Automated client share-transfer processing, cutting manual errors and hours per week | `VBA` `Web Apps` `Mainframes` |
-| **LIBOR Validation Tool** | JPMC | Automated LIBOR data validation for regulatory reporting | `VBA` `Excel` |
-| **Auto Faxing / UGL Recon / Notes Standardization** | Charles Schwab | Suite of tools automating fax routing, ledger reconciliation & notes formatting | `VBA` `Excel` `Outlook` |
-| **Mistake Proofing / KDAT / Lean Assessment** | Virgin Media-UPC · Schwab | Error-proofing and lean-assessment automation across audit workflows | `VBA` `Excel` |
-| **Workflow Management Tool** | JPMC | End-to-end workflow tracking and task routing automation | `VBA` `Web Apps` |
-| **+20 more** | Onshore / Offshore | Recon tools, mailbox management, dividend & ETF distribution automation, and more — **250+ tools shipped in total** | `VBA` `Python` `SQL` |
 
-<p align="center"><i>Full annexure of 25+ additional enterprise tools available on request / in resume.</i></p>
+#### 📁 Annexure — Additional High-Impact Tools (Mphasis, 2015–2023)
+
+<details>
+<summary><b>Click to expand all 28 additional enterprise automation tools</b></summary>
+<br/>
+
+| Project | Client | One-liner | Stack |
+|---|---|---|---|
+| LIBOR Validation Tool | JPMC LIBOR, Bangalore | Validated LIBOR-linked data for regulatory reporting accuracy | `VBA` `Excel` |
+| Auto Faxing Tool | Charles Schwab | Automated document faxing and delivery confirmation | `VBA` `Excel` |
+| UGL Recon Tool | Charles Schwab | Reconciled unrealized gain/loss figures across systems | `VBA` `SQL` |
+| Notes-Standardization Tool | Charles Schwab | Standardized free-text account notes into a consistent format | `VBA` `Excel` |
+| Mistake Proofing Tool | Virgin Media-UPC | Flagged data-entry errors before they reached downstream systems | `VBA` `Excel` |
+| KDAT Tool | Charles Schwab | Automated key-data audit tracking for assurance reviews | `VBA` `SQL` |
+| Lean Assessment Tool | Charles Schwab | Digitized lean-process assessments, replacing manual scoring sheets | `VBA` `Excel` |
+| Workflow Management Tool | JPMC | Automated task routing and status tracking across teams | `VBA` `Web Apps` |
+| MIS & Notes Standardization Tool | Offshore | Unified MIS reporting formats and note structures across accounts | `VBA` `Excel` |
+| EOS Report | Pune, Offshore | Automated end-of-shift reporting, removing manual compilation | `VBA` `Excel` |
+| Self QC Tool | Offshore | Let teams self-validate output quality before formal QC review | `VBA` `Excel` |
+| Auto Fetching of Account/Job ID | Offshore | Auto-pulled account & job IDs from source apps into client macros | `VBA` `Macros` |
+| Auto Fetching of Journal Effective Date | Offshore | Auto-populated journal effective dates in client macros | `VBA` `Macros` |
+| Account Closure Automation | Offshore | Automated the multi-step account closure workflow | `VBA` `Web Apps` |
+| TraQer Updation Tool | Offshore | Automated updates to the TraQer tracking system | `VBA` `Excel` |
+| ACATS Mistake Proofing Tool | Offshore | Prevented errors in ACATS account-transfer processing | `VBA` `Excel` |
+| Signature Verification Tool | Offshore | Automated signature-match checks for transaction approvals | `VBA` `Excel` |
+| Wire Transaction - Mistake Proofing Tool | Offshore | Caught wire-transfer errors before execution | `VBA` `Excel` |
+| Fund Changes Recon Tool | Onshore | Reconciled fund-level changes across reporting systems | `VBA` `SQL` |
+| TV Address Recon Tool | Onshore | Reconciled address records against transfer-vehicle data | `VBA` `Excel` |
+| ANF Dividend Tool | Onshore | Automated dividend-data processing for ANF accounts | `VBA` `Excel` |
+| Directive Recon - Daily Aged Cash Report | Onshore | Automated daily aged-cash reconciliation reporting | `VBA` `SQL` |
+| Pending Batch Recon Tool | Onshore | Reconciled pending transaction batches automatically | `VBA` `Excel` |
+| ETF - Distributions Tool | Onshore | Automated ETF distribution calculations and reporting | `VBA` `Excel` |
+| Auto Letter Creation Tool | Onshore | Auto-generated client letters from templated data | `VBA` `MS Word` |
+| Loan Out of Balance Tool | Onshore | Flagged loan accounts that fell out of balance | `VBA` `Excel` |
+| Auto Time Zone Tool | Offshore | Auto-converted transaction timestamps across time zones | `VBA` `Excel` |
+| MBMS (Mailbox Management System) | Star India, Pune & Mumbai | Automated shared-mailbox triage and routing | `VBA` `Outlook` |
+
+</details>
+
+<p align="center"><i>250+ automation tools shipped in total across a 10-year career at Mphasis & KPMG.</i></p>
 
 ---
 
