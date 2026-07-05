@@ -1,28 +1,32 @@
 <div align="center">
 
-<!-- Animated typing intro -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=Hi+there%2C+I'm+Piyush+Sharma+%F0%9F%91%8B;AI+Engineer+%7C+Agentic+AI+%7C+RAG+Systems;10%2B+Years+Enterprise+Automation+%E2%86%92+AI+Engineering;Building+Multi-Agent+Systems+%26+Intelligent+Automation" alt="Typing SVG" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F2937,100:0EA5E9&height=200&section=header&text=&fontSize=0" width="100%"/>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:6366F1&height=180&section=header&text=&fontSize=0" width="100%"/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=900&color=58A6FF&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=110&lines=Hi+there%2C+I'm+Piyush+Sharma+%F0%9F%91%8B;AI+Engineer+%7C+Agentic+AI+%7C+RAG+Systems;10%2B+Years+Enterprise+Automation+%E2%86%92+AI+Engineering" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+<p align="center">
+  <a href="https://piyush-sharma-portfolio-cetv.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" /></a>
+  <a href="https://www.linkedin.com/in/piyush-sharma-4b6137216"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" /></a>
+  <a href="mailto:inboxofpiyush01@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" /></a>
+  <a href="https://github.com/inboxofpiyush01"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=inboxofpiyush01&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/inboxofpiyush01?label=Followers&style=for-the-badge&color=58A6FF&labelColor=0D1117" alt="followers" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to%20Relocation-UAE%20%C2%B7%20UK%20%C2%B7%20Germany%20%C2%B7%20Netherlands%20%C2%B7%20Ireland%20%C2%B7%20Singapore%20%C2%B7%20Australia-238636?style=flat-square&labelColor=0D1117" />
+</p>
 
 </div>
-
-<p align="center">
-  <a href="https://piyush-sharma-portfolio-cetv.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/piyush-sharma-4b6137216"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:inboxofpiyush01@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/inboxofpiyush01"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=inboxofpiyush01&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/inboxofpiyush01?label=Followers&style=social" alt="followers" />
-  <img src="https://img.shields.io/badge/Open%20to-Relocation%20%7C%20UAE%20%C2%B7%20UK%20%C2%B7%20Germany%20%C2%B7%20Netherlands%20%C2%B7%20Ireland%20%C2%B7%20Singapore%20%C2%B7%20Australia-2ea44f?style=flat" />
-</p>
 
 ---
 
@@ -133,42 +137,61 @@ Upskilling in Agentic AI/MLOps · shipping open-source Multi-Agent, RAG & NLP pr
 
 ---
 
-### 📌 Featured Projects
+### 📌 Projects
+
+#### 🧠 AI / GenAI Builds
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-#### 🤖 [Multi-Agent Enterprise AI Assistant](https://github.com/inboxofpiyush01/Universal_AI_Chat_Bot)
-A SaaS-oriented multi-agent chatbot that plugs into **any website** and learns its content automatically.
+**🤖 [Multi-Agent Enterprise AI Assistant](https://github.com/inboxofpiyush01/Universal_AI_Chat_Bot)**
+Plug-and-play SaaS chatbot that learns any website's content automatically and answers visitor questions via multi-agent orchestration.
 `Python` `LLM` `RAG` `CrewAI` `BeautifulSoup`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-#### 📚 [Enterprise RAG Knowledge Assistant](https://github.com/inboxofpiyush01/doc-qa-assistant)
-Upload any PDF/text doc and query it in natural language — semantic search + FLAN-T5 for grounded answers.
+**📚 [Enterprise RAG Knowledge Assistant](https://github.com/inboxofpiyush01/doc-qa-assistant)**
+Upload any PDF/text doc and query it in plain English — semantic search with MiniLM + FLAN-T5 for grounded, source-cited answers.
 `LangChain` `FAISS` `HuggingFace` `Streamlit`
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-#### 📊 [Geo-Intelligence Sales Analytics System](https://github.com/inboxofpiyush01/ClientAnalysis)
-Turned a messy real-world business dataset into a ranked, GPS-filtered sales-target list for a product launch.
+**📊 [Geo-Intelligence Sales Analytics System](https://github.com/inboxofpiyush01/ClientAnalysis)**
+Turned a messy real-world business dataset into a GPS-filtered, ranked sales-target list for a product launch.
 `Pandas` `NumPy` `Matplotlib` `Seaborn`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-#### 🧪 More on GitHub
-QA Dummy Data Generator · BRD Translator · KCAT Audit Automation · PowerBI Elements Extractor — 250+ tools built across a 10-year automation career.
-`VBA` `Python` `Prompt Engineering`
+**🧪 QA Dummy Data Generator** *(KPMG)*
+Auto-generates realistic, compliant test datasets from plain-English requirements — first shipped in VBA, rebuilt in Python.
+`Python` `VBA` `Prompt Engineering`
 
 </td>
 </tr>
 </table>
+
+#### ⚙️ Enterprise Automation Portfolio
+
+| Project | Client / Org | One-liner | Stack |
+|---|---|---|---|
+| **BRD Generator / Translator** | KPMG | Converts code or BRDs into plain-English business docs — zero technical background needed | `VBA` `Python` `Prompt Engineering` |
+| **KCAT Tool** | KPMG | Automated end-to-end audit confirmation, authentication & account tracking via APIs | `VBA` `API` `SQL` |
+| **PowerBI Elements Extractor** | KPMG | Extracts & validates tables/queries/formulas from Power BI dashboards for fast QA sign-off | `VBA` `Power BI` `Excel` |
+| **PRE-OPS Automation Tool** | Mphasis | Automated end-to-end mortgage QC data fetch & validation across multiple systems | `VBA` `Web Apps` `Mainframes` |
+| **Gifting Tool** | Mphasis | Automated client share-transfer processing, cutting manual errors and hours per week | `VBA` `Web Apps` `Mainframes` |
+| **LIBOR Validation Tool** | JPMC | Automated LIBOR data validation for regulatory reporting | `VBA` `Excel` |
+| **Auto Faxing / UGL Recon / Notes Standardization** | Charles Schwab | Suite of tools automating fax routing, ledger reconciliation & notes formatting | `VBA` `Excel` `Outlook` |
+| **Mistake Proofing / KDAT / Lean Assessment** | Virgin Media-UPC · Schwab | Error-proofing and lean-assessment automation across audit workflows | `VBA` `Excel` |
+| **Workflow Management Tool** | JPMC | End-to-end workflow tracking and task routing automation | `VBA` `Web Apps` |
+| **+20 more** | Onshore / Offshore | Recon tools, mailbox management, dividend & ETF distribution automation, and more — **250+ tools shipped in total** | `VBA` `Python` `SQL` |
+
+<p align="center"><i>Full annexure of 25+ additional enterprise tools available on request / in resume.</i></p>
 
 ---
 
@@ -194,16 +217,16 @@ QA Dummy Data Generator · BRD Translator · KCAT Audit Automation · PowerBI El
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=inboxofpiyush01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inboxofpiyush01&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=inboxofpiyush01&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inboxofpiyush01&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=inboxofpiyush01&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=inboxofpiyush01&theme=dracula&hide_border=true&background=0D1117" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=inboxofpiyush01&theme=tokyo-night&hide_border=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=inboxofpiyush01&theme=dracula&hide_border=true&bg_color=0D1117" width="95%"/>
 </p>
 
 ---
@@ -211,13 +234,13 @@ QA Dummy Data Generator · BRD Translator · KCAT Audit Automation · PowerBI El
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/piyush-sharma-4b6137216"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://piyush-sharma-portfolio-cetv.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="mailto:inboxofpiyush01@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/piyush-sharma-4b6137216"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/></a>
+  <a href="https://piyush-sharma-portfolio-cetv.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117"/></a>
+  <a href="mailto:inboxofpiyush01@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117"/></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:0EA5E9&height=120&section=footer" width="100%"/>
-
 <p align="center"><i>Thanks for stopping by — let's build something intelligent together. 🚀</i></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:1F2937,100:0D1117&height=150&section=footer" width="100%"/>
 
 </div>
