@@ -1,224 +1,192 @@
-<h1 align="center">Hi 👋, I'm Piyush Sharma</h1>
+# Hi 👋 I'm Piyush Sharma
 
-<h3 align="center">
-AI Engineer | Generative AI | Agentic AI | Enterprise Automation
-</h3>
+### Enterprise Automation Leader → AI Engineer
 
+> **Building production-ready AI applications by combining 10+ years of
+> enterprise automation experience with Generative AI, Agentic AI and
+> Intelligent Automation.**
+
+```{=html}
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=900&lines=Building+Production+AI+Applications;Agentic+AI+%7C+RAG+%7C+FastAPI;Turning+Business+Problems+into+AI+Solutions;10%2B+Years+of+Enterprise+Automation;Always+Learning+%26+Building" />
+```
+`<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=900&lines=10%2B+Years+in+Enterprise+IT;250%2B+Automation+Solutions;Generated+%245M%2B+Business+Benefits;Building+AI+Agents+%7C+RAG+Applications;FastAPI+%7C+LangChain+%7C+CrewAI;Always+Learning+Always+Building" />`{=html}
+```{=html}
 </p>
+```
 
-<p align="center">
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge"/>
-
-</a>
-
-</p>
-
----
+------------------------------------------------------------------------
 
 # 🚀 About Me
 
-I'm an AI Engineer with **10+ years of experience** in Enterprise Automation, currently focused on building production-ready AI applications.
+I'm passionate about solving business problems with technology.
 
-I enjoy solving real business problems using **LLMs, Agentic AI, RAG, FastAPI, MCP, and workflow automation**.
+Over the last **10+ years**, I've designed enterprise automation
+solutions across Banking, Insurance and Audit domains. My work has
+delivered **250+ automation solutions**, generated **\$5M+ in business
+benefits**, and earned **18+ performance awards**.
 
-My goal is simple:
+Today, I'm focused on building production-ready AI applications using
+**LLMs, Agentic AI, RAG, LangChain, CrewAI, FastAPI and Python**.
 
-> **Build intelligent AI systems that create measurable business value.**
+------------------------------------------------------------------------
 
----
+# 💼 Career Journey
 
-# 💼 My Journey
-
-```text
+``` text
+B.Tech (Electronics & Communication)
+            │
+            ▼
+Mphasis
+Senior Software Engineer / Module Lead
 Enterprise Automation
-        │
-        ▼
-      Python
-        │
-        ▼
-  Generative AI
-        │
-        ▼
-    Agentic AI
-        │
-        ▼
-Production AI Applications
+            │
+            ▼
+250+ Automation Solutions
+$5M+ Business Benefits
+Led Team of 21 Engineers
+            │
+            ▼
+KPMG
+Assistant Manager – Technical
+Python • SQL • APIs • Automation
+            │
+            ▼
+AI Engineer
+Generative AI
+Agentic AI
+LLMs
+RAG
+FastAPI
+CrewAI
+LangChain
+            │
+            ▼
+Building Production AI Applications
 ```
 
----
+------------------------------------------------------------------------
 
-# 🚀 Currently Building
+# 🏆 Career Highlights
 
-- 🤖 AI Agents
-- 🧠 Multi-Agent Systems
-- 📚 Retrieval-Augmented Generation (RAG)
-- ⚡ FastAPI APIs
-- 🔗 MCP Integrations
-- ☁️ Production AI Workflows
+-   💼 10+ Years in Enterprise IT
+-   🤖 250+ Enterprise Automation Solutions
+-   💰 Generated \$5M+ Business Benefits
+-   🏅 18+ Performance Awards
+-   👥 Led Teams of 21 Engineers
+-   🏢 Experience at **Mphasis** and **KPMG**
 
----
-
-# 🛠 Tech Stack
-
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
----
-
-### AI & Machine Learning
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-![LangChain](https://img.shields.io/badge/LangChain-121D33?style=for-the-badge)
-
-![CrewAI](https://img.shields.io/badge/CrewAI-Agentic_AI-blue?style=for-the-badge)
-
-![RAG](https://img.shields.io/badge/RAG-Retrieval_Generation-success?style=for-the-badge)
-
-![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector_DB-orange?style=for-the-badge)
-
-![Ollama](https://img.shields.io/badge/Ollama-LLMs-black?style=for-the-badge)
-
----
-
-### Backend
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI)
-
-![REST API](https://img.shields.io/badge/REST-API-green?style=for-the-badge)
-
----
-
-### Tools
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
-
----
+------------------------------------------------------------------------
 
 # 🚀 Featured Projects
 
 ## 🤖 Universal AI Chat Bot
 
-An AI-powered multi-agent chatbot capable of crawling websites, extracting product information, and answering customer queries using RAG.
+A multi-agent AI chatbot that crawls websites, builds a knowledge base
+using RAG, and answers customer queries.
 
-### Tech Stack
+**Tech:** Python • CrewAI • LangChain • FastAPI • ChromaDB • Ollama
 
-CrewAI • LangChain • FastAPI • ChromaDB • Ollama
+------------------------------------------------------------------------
 
----
+## 📄 Enterprise RAG Knowledge Assistant
 
-## 🧠 AI Resume Analyzer
+Chat with PDFs and documents using Retrieval-Augmented Generation.
 
-An LLM-powered application that compares resumes against job descriptions, performs ATS analysis, and provides AI-driven recommendations.
+**Tech:** Python • LangChain • FAISS • Hugging Face • Streamlit
 
----
+------------------------------------------------------------------------
 
-## 🔗 MCP Integrations
+## 🌍 Geo-Intelligence Sales Analytics
 
-Hands-on projects using Model Context Protocol (MCP) to connect AI agents with external tools and services.
+Python-based analytics solution for identifying high-potential business
+prospects using geospatial analysis.
 
----
+------------------------------------------------------------------------
 
-## 📚 RAG Applications
+## 📑 BRD Generator
 
-Building intelligent retrieval systems using embeddings, vector databases, and LLMs for accurate and context-aware responses.
+Converts technical code and documentation into business-friendly BRDs
+using LLMs.
 
----
+------------------------------------------------------------------------
+
+## 🤖 QA Dummy Data Generator
+
+Enterprise tool for generating realistic QA datasets using prompt
+engineering.
+
+------------------------------------------------------------------------
+
+# 🛠 Tech Stack
+
+### AI & GenAI
+
+Python • LLMs • LangChain • LangGraph • CrewAI • RAG • Prompt
+Engineering • MCP
+
+### Backend
+
+FastAPI • REST APIs • Streamlit
+
+### ML & Data
+
+Scikit-learn • Pandas • NumPy • TensorFlow • FAISS
+
+### Databases
+
+SQL Server • MongoDB • ChromaDB
+
+### DevOps & Cloud
+
+Docker • Git • GitHub • MLflow • AWS (EC2, S3, IAM)
+
+### Enterprise Automation
+
+VBA • API Integration • Workflow Automation • MS Office Automation
+
+------------------------------------------------------------------------
+
+# 📜 Certifications
+
+-   Generative AI & Agentic AI
+-   MLOps
+-   Data Science, Machine Learning & NLP
+-   Six Sigma Black Belt
+
+------------------------------------------------------------------------
+
+# 🌱 Currently Exploring
+
+-   Production AI Systems
+-   AI Evaluation
+-   LLMOps
+-   AI Agents
+-   Multi-Agent Architectures
+-   Enterprise AI Solutions
+
+------------------------------------------------------------------------
 
 # 📈 GitHub Stats
 
-<p align="center">
+Replace **YOUR_USERNAME** with your GitHub username.
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+``` html
+https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight
 
-</p>
+https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night
+```
 
----
+------------------------------------------------------------------------
 
-# 🔥 GitHub Streak
+# 🌐 Connect With Me
 
-<p align="center">
+-   🌍 Portfolio: https://piyush-sharma-portfolio-cetv.vercel.app
+-   💼 LinkedIn: https://linkedin.com/in/piyush-sharma-4b6137216
+-   📧 Email: inboxofpiyush01@gmail.com
+-   💻 GitHub: https://github.com/inboxofpiyush01
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight"/>
+------------------------------------------------------------------------
 
-</p>
-
----
-
-# 🐍 Contribution Graph
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
-
-</p>
-
----
-
-# 📊 Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=6"/>
-
-</p>
-
----
-
-# 🌱 Currently Learning
-
-- Production AI Systems
-- Agentic AI
-- AI Evaluation
-- MCP
-- AI Observability
-- LLMOps
-
----
-
-# 🤝 Let's Connect
-
-<p align="left">
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
-</a>
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
-</a>
-
-</p>
-
----
-
-<h3 align="center">
-
-⭐ Building AI that solves real business problems.
-
-</h3>
+> **"Turning Enterprise Experience into Intelligent AI Solutions."**
