@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/inboxofpiyush01.png" width="130" alt="Piyush Sharma" />
+<img src="assets/profile.png" width="160" alt="Piyush Sharma" />
 
 <br/>
 
