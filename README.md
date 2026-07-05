@@ -1,14 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F2937,100:0EA5E9&height=200&section=header&text=&fontSize=0" width="100%"/>
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:14213D,100:0EA5E9&height=260&section=header&text=Piyush%20Sharma&fontSize=55&fontColor=58A6FF&fontAlignY=38&animation=fadeIn&desc=Enterprise%20Automation%20Lead%20%E2%86%92%20AI%20Engineer&descAlignY=58&descSize=20&descColor=8B949E" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=900&color=58A6FF&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=110&lines=Hi+there%2C+I'm+Piyush+Sharma+%F0%9F%91%8B;AI+Engineer+%7C+Agentic+AI+%7C+RAG+Systems;10%2B+Years+Enterprise+Automation+%E2%86%92+AI+Engineering" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=58A6FF&background=0D1117&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=100&lines=%F0%9F%A4%96+AI+Engineer+%7C+Agentic+AI+%7C+RAG+Systems;%E2%9A%99%EF%B8%8F+10%2B+Years+Enterprise+Automation+%E2%86%92+AI+Engineering;%F0%9F%9A%80+Building+Multi-Agent+Systems+%26+Intelligent+Automation" alt="Typing SVG" />
 </a>
 
-<br/><br/>
+<br/>
 
 <p align="center">
   <a href="https://piyush-sharma-portfolio-cetv.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" /></a>
@@ -18,12 +16,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=inboxofpiyush01&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/inboxofpiyush01?label=Followers&style=for-the-badge&color=58A6FF&labelColor=0D1117" alt="followers" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Open%20to%20Relocation-UAE%20%C2%B7%20UK%20%C2%B7%20Germany%20%C2%B7%20Netherlands%20%C2%B7%20Ireland%20%C2%B7%20Singapore%20%C2%B7%20Australia-238636?style=flat-square&labelColor=0D1117" />
+  <img src="https://komarev.com/ghpvc/?username=inboxofpiyush01&label=Profile%20Views&color=0D1117&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/inboxofpiyush01?label=Followers&style=for-the-badge&color=0D1117&labelColor=0D1117" alt="followers" />
+  <img src="https://img.shields.io/badge/🌍_Open_to_Relocation-0D1117?style=for-the-badge&labelColor=0D1117" />
 </p>
 
 </div>
