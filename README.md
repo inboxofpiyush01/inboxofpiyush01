@@ -1,192 +1,223 @@
-# Hi 👋 I'm Piyush Sharma
+<div align="center">
 
-### Enterprise Automation Leader → AI Engineer
+<!-- Animated typing intro -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=Hi+there%2C+I'm+Piyush+Sharma+%F0%9F%91%8B;AI+Engineer+%7C+Agentic+AI+%7C+RAG+Systems;10%2B+Years+Enterprise+Automation+%E2%86%92+AI+Engineering;Building+Multi-Agent+Systems+%26+Intelligent+Automation" alt="Typing SVG" />
+</a>
 
-> **Building production-ready AI applications by combining 10+ years of
-> enterprise automation experience with Generative AI, Agentic AI and
-> Intelligent Automation.**
+<br/>
 
-```{=html}
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:6366F1&height=180&section=header&text=&fontSize=0" width="100%"/>
+
+</div>
+
 <p align="center">
-```
-`<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=900&lines=10%2B+Years+in+Enterprise+IT;250%2B+Automation+Solutions;Generated+%245M%2B+Business+Benefits;Building+AI+Agents+%7C+RAG+Applications;FastAPI+%7C+LangChain+%7C+CrewAI;Always+Learning+Always+Building" />`{=html}
-```{=html}
+  <a href="https://piyush-sharma-portfolio-cetv.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/piyush-sharma-4b6137216"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:inboxofpiyush01@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/inboxofpiyush01"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=inboxofpiyush01&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/inboxofpiyush01?label=Followers&style=social" alt="followers" />
+  <img src="https://img.shields.io/badge/Open%20to-Relocation%20%7C%20UAE%20%C2%B7%20UK%20%C2%B7%20Germany%20%C2%B7%20Netherlands%20%C2%B7%20Ireland%20%C2%B7%20Singapore%20%C2%B7%20Australia-2ea44f?style=flat" />
+</p>
+
+---
+
+### 🧭 About Me
+
+```yaml
+name:        Piyush Sharma
+title:       Enterprise Automation Lead → AI Engineer
+location:    Delhi, India (open to relocation 🌍)
+experience:  10+ years
+focus:       Agentic AI · RAG Systems · Multi-Agent Orchestration · Intelligent Automation
+mission:     "Translating a decade of enterprise automation leadership into scalable AI-native systems"
+fun_fact:    "I've shipped 250+ automation tools that generated $5M+ in business value"
 ```
 
-------------------------------------------------------------------------
+I spent a decade leading **enterprise automation** at Mphasis and KPMG — architecting VBA/Python/SQL solutions, leading teams of 20+, and driving digital transformation for Fortune 500 clients. In **2025, I made a deliberate transition into AI Engineering**, and I now build **Agentic AI, RAG pipelines, and multi-agent systems**, combining that automation-leadership depth with modern GenAI tooling.
 
-# 🚀 About Me
+- 🔭 Currently building open-source **Agentic AI & RAG** systems
+- 🌱 Deepening skills in **LangGraph, CrewAI, MLOps, and Vector Databases**
+- 🤝 Open to **AI Engineer / Automation Architect** roles — India & international relocation
+- ⚡ Fun fact: I'm a **B.Tech topper (all 4 years)** and a certified **Six Sigma Black Belt**
 
-I'm passionate about solving business problems with technology.
+---
 
-Over the last **10+ years**, I've designed enterprise automation
-solutions across Banking, Insurance and Audit domains. My work has
-delivered **250+ automation solutions**, generated **\$5M+ in business
-benefits**, and earned **18+ performance awards**.
+### 🚀 My Journey
 
-Today, I'm focused on building production-ready AI applications using
-**LLMs, Agentic AI, RAG, LangChain, CrewAI, FastAPI and Python**.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-------------------------------------------------------------------------
+**📍 2008 – 2012**
+`B.Tech, Electronics & Communication`
+Delhi Institute of Technology & Management — topper, all 4 years
 
-# 💼 Career Journey
+**📍 2012 – 2015**
+`PGDM, Business Management`
+Amity School of Distance Learning
 
-``` text
-B.Tech (Electronics & Communication)
-            │
-            ▼
-Mphasis
-Senior Software Engineer / Module Lead
-Enterprise Automation
-            │
-            ▼
-250+ Automation Solutions
-$5M+ Business Benefits
-Led Team of 21 Engineers
-            │
-            ▼
-KPMG
-Assistant Manager – Technical
-Python • SQL • APIs • Automation
-            │
-            ▼
-AI Engineer
-Generative AI
-Agentic AI
-LLMs
-RAG
-FastAPI
-CrewAI
-LangChain
-            │
-            ▼
-Building Production AI Applications
-```
+**📍 2015 – 2023**
+`Senior Software Engineer / Module Lead — Mphasis`
+Led 21 developers · built 250+ automation tools · $5M+ in benefits · 12 performance awards
 
-------------------------------------------------------------------------
+</td>
+<td width="50%" valign="top">
 
-# 🏆 Career Highlights
+**📍 2023 – 2024**
+`Assistant Manager (Technical) — KPMG`
+Python/VBA/SQL automation for Audit & Advisory · 6 performance awards
 
--   💼 10+ Years in Enterprise IT
--   🤖 250+ Enterprise Automation Solutions
--   💰 Generated \$5M+ Business Benefits
--   🏅 18+ Performance Awards
--   👥 Led Teams of 21 Engineers
--   🏢 Experience at **Mphasis** and **KPMG**
+**📍 2025 – Present**
+`AI Engineer (in Transition) & Automation Consulting`
+Upskilling in Agentic AI/MLOps · shipping open-source Multi-Agent, RAG & NLP projects on GitHub
 
-------------------------------------------------------------------------
+**📍 What's next?**
+`AI Engineering roles combining Agentic AI with enterprise-scale automation experience`
 
-# 🚀 Featured Projects
+</td>
+</tr>
+</table>
 
-## 🤖 Universal AI Chat Bot
+---
 
-A multi-agent AI chatbot that crawls websites, builds a knowledge base
-using RAG, and answers customer queries.
+### 🛠️ Tech Stack
 
-**Tech:** Python • CrewAI • LangChain • FastAPI • ChromaDB • Ollama
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,vba,sql,git,github,docker,aws,vscode,githubactions&theme=dark" />
+</p>
 
-------------------------------------------------------------------------
+<p align="center">
+  <b>Languages & Scripting</b><br/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/VBA-8B0000?style=flat-square&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+</p>
 
-## 📄 Enterprise RAG Knowledge Assistant
+<p align="center">
+  <b>AI / ML / GenAI</b><br/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" />
+  <img src="https://img.shields.io/badge/CrewAI-FF6F00?style=flat-square" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/RAG-6366F1?style=flat-square" />
+  <img src="https://img.shields.io/badge/Agentic%20AI-0EA5E9?style=flat-square" />
+  <img src="https://img.shields.io/badge/NLP-8A2BE2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-14B8A6?style=flat-square" />
+</p>
 
-Chat with PDFs and documents using Retrieval-Augmented Generation.
+<p align="center">
+  <b>ML Libraries & MLOps</b><br/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/FAISS-4B8BBE?style=flat-square" />
+</p>
 
-**Tech:** Python • LangChain • FAISS • Hugging Face • Streamlit
+<p align="center">
+  <b>Cloud & Databases</b><br/>
+  <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=flat-square&logo=amazons3&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20IAM-DD344C?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+</p>
 
-------------------------------------------------------------------------
+---
 
-## 🌍 Geo-Intelligence Sales Analytics
+### 📌 Featured Projects
 
-Python-based analytics solution for identifying high-potential business
-prospects using geospatial analysis.
+<table>
+<tr>
+<td width="50%">
 
-------------------------------------------------------------------------
+#### 🤖 [Multi-Agent Enterprise AI Assistant](https://github.com/inboxofpiyush01/Universal_AI_Chat_Bot)
+A SaaS-oriented multi-agent chatbot that plugs into **any website** and learns its content automatically.
+`Python` `LLM` `RAG` `CrewAI` `BeautifulSoup`
 
-## 📑 BRD Generator
+</td>
+<td width="50%">
 
-Converts technical code and documentation into business-friendly BRDs
-using LLMs.
+#### 📚 [Enterprise RAG Knowledge Assistant](https://github.com/inboxofpiyush01/doc-qa-assistant)
+Upload any PDF/text doc and query it in natural language — semantic search + FLAN-T5 for grounded answers.
+`LangChain` `FAISS` `HuggingFace` `Streamlit`
 
-------------------------------------------------------------------------
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-## 🤖 QA Dummy Data Generator
+#### 📊 [Geo-Intelligence Sales Analytics System](https://github.com/inboxofpiyush01/ClientAnalysis)
+Turned a messy real-world business dataset into a ranked, GPS-filtered sales-target list for a product launch.
+`Pandas` `NumPy` `Matplotlib` `Seaborn`
 
-Enterprise tool for generating realistic QA datasets using prompt
-engineering.
+</td>
+<td width="50%">
 
-------------------------------------------------------------------------
+#### 🧪 More on GitHub
+QA Dummy Data Generator · BRD Translator · KCAT Audit Automation · PowerBI Elements Extractor — 250+ tools built across a 10-year automation career.
+`VBA` `Python` `Prompt Engineering`
 
-# 🛠 Tech Stack
+</td>
+</tr>
+</table>
 
-### AI & GenAI
+---
 
-Python • LLMs • LangChain • LangGraph • CrewAI • RAG • Prompt
-Engineering • MCP
+### 🏆 Highlights & Achievements
 
-### Backend
+<table>
+<tr><td>
 
-FastAPI • REST APIs • Streamlit
+- 💰 **$5M+** in business benefits delivered through automation solutions
+- 🏅 **18+ performance awards** across KPMG & Mphasis (2016–2024)
+- 🥇 **B.Tech topper**, all four years
+- 🎓 **Six Sigma Black Belt** — Benchmark Seal of Excellence
+- 👥 Led a team of **21 developers** as Module Lead at Mphasis
+- 📈 Reduced manual audit effort by **30–40%** at KPMG via Python automation bots
 
-### ML & Data
+</td></tr>
+</table>
 
-Scikit-learn • Pandas • NumPy • TensorFlow • FAISS
+**Certifications:** Agentic AI, AI & MLOps (Edureka) · Python 3.x, Data Science, AI/ML (Simplilearn × IBM) · Complete Data Science, ML, DL & NLP Bootcamp (Udemy) · Machine Learning (Coding Bytes) · Six Sigma Black Belt · Excellence in Continuous Improvement Leadership
 
-### Databases
+---
 
-SQL Server • MongoDB • ChromaDB
+### 📊 GitHub Analytics
 
-### DevOps & Cloud
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=inboxofpiyush01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inboxofpiyush01&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-Docker • Git • GitHub • MLflow • AWS (EC2, S3, IAM)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=inboxofpiyush01&theme=tokyonight&hide_border=true" />
+</p>
 
-### Enterprise Automation
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=inboxofpiyush01&theme=tokyo-night&hide_border=true" width="95%"/>
+</p>
 
-VBA • API Integration • Workflow Automation • MS Office Automation
+---
 
-------------------------------------------------------------------------
+### 🌐 Connect With Me
 
-# 📜 Certifications
+<p align="center">
+  <a href="https://www.linkedin.com/in/piyush-sharma-4b6137216"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://piyush-sharma-portfolio-cetv.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="mailto:inboxofpiyush01@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
--   Generative AI & Agentic AI
--   MLOps
--   Data Science, Machine Learning & NLP
--   Six Sigma Black Belt
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:0EA5E9&height=120&section=footer" width="100%"/>
 
-------------------------------------------------------------------------
+<p align="center"><i>Thanks for stopping by — let's build something intelligent together. 🚀</i></p>
 
-# 🌱 Currently Exploring
-
--   Production AI Systems
--   AI Evaluation
--   LLMOps
--   AI Agents
--   Multi-Agent Architectures
--   Enterprise AI Solutions
-
-------------------------------------------------------------------------
-
-# 📈 GitHub Stats
-
-Replace **YOUR_USERNAME** with your GitHub username.
-
-``` html
-https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight
-
-https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight
-
-https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night
-```
-
-------------------------------------------------------------------------
-
-# 🌐 Connect With Me
-
--   🌍 Portfolio: https://piyush-sharma-portfolio-cetv.vercel.app
--   💼 LinkedIn: https://linkedin.com/in/piyush-sharma-4b6137216
--   📧 Email: inboxofpiyush01@gmail.com
--   💻 GitHub: https://github.com/inboxofpiyush01
-
-------------------------------------------------------------------------
-
-> **"Turning Enterprise Experience into Intelligent AI Solutions."**
+</div>
