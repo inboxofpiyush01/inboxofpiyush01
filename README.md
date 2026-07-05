@@ -1,14 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=200&section=header&text=Piyush%20Sharma&fontSize=60&fontColor=58A6FF&fontAlignY=45&animation=fadeIn&desc=Enterprise%20Automation%20Lead%20%E2%86%92%20AI%20Engineer&descAlignY=72&descSize=20&descColor=8B949E" width="100%"/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=58A6FF&background=0D1117&center=true&vCenter=true&multiline=true&repeat=true&width=1400&height=90&lines=%F0%9F%A4%96+AI+Engineer+%7C+Agentic+AI+%7C+RAG+Systems;%E2%9A%99%EF%B8%8F+10%2B+Years+Enterprise+Automation+%E2%86%92+AI+Engineering;%F0%9F%9A%80+Building+Multi-Agent+Systems+%26+Intelligent+Automation" alt="Typing SVG" width="100%" />
-</a>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=30&section=footer" width="100%"/>
+<img src="https://github.com/inboxofpiyush01.png" width="130" alt="Piyush Sharma" />
 
 <br/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=700&height=60&lines=Piyush+Sharma" alt="Name animation" />
+</a>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=1000&color=8B949E&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=90&lines=%F0%9F%A4%96+AI+Engineer+%7C+Agentic+AI+%7C+RAG+Systems;%E2%9A%99%EF%B8%8F+10%2B+Years+Enterprise+Automation+%E2%86%92+AI+Engineering;%F0%9F%9A%80+Building+Multi-Agent+Systems+%26+Intelligent+Automation" alt="Typing SVG" />
+</a>
 
 <p align="center">
   <a href="https://piyush-sharma-portfolio-cetv.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" /></a>
@@ -272,6 +274,6 @@ Auto-generates realistic, compliant test datasets from plain-English requirement
 
 <p align="center"><i>Thanks for stopping by — let's build something intelligent together. 🚀</i></p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=100&section=footer" width="100%"/>
+</div>
 
 </div>
